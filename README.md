@@ -1,3 +1,3 @@
-# HTML5, SCSS, JS(ES6), Webpack
+## HTML5, SCSS, JS(ES6), Webpack5
 
-Building a [Forkio-project](https://github.com/OlenaSavchenko/forkio-project) on webpack 
+ Implementation of  project [Forkio-project](https://github.com/OlenaSavchenko/forkio-project) on webpack 
